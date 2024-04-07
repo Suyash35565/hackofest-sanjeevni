@@ -19,7 +19,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
     if($numExistRows>0)
         {
         $exist=true;
-        header("location: \Mynew\ls\doctorloginpage.php");
+        header("location: \Sanjeevanifinal\ls\doctorloginpage.php");
         }
     else
         {
