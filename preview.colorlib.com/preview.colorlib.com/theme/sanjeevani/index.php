@@ -121,7 +121,7 @@
                                 <li class="remove">Virtual Consultation</li>
                             </ul>
                             <p class="text-center">
-                                <a href="\Mynew\ls\patientloginpage.php" class="btn btn-secondary btn-md">Get Started</a>
+                                <a href="\Sanjeevanifinal\ls\patientloginpage.php" class="btn btn-secondary btn-md">Get Started</a>
                             </p>
                         </div>
                     </div>
@@ -139,7 +139,7 @@
                                 <li class="remove">Descison Support</li>
                             </ul>
                             <p class="text-center">
-                                <a href="\Mynew\ls\doctorloginpage.php" class="btn btn-primary btn-md text-white">Get Started</a>
+                                <a href="\Sanjeevanifinal\ls\doctorloginpage.php" class="btn btn-primary btn-md text-white">Get Started</a>
                             </p>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                                 <li>System Customization</li>
                             </ul>
                             <p class="text-center">
-                                <a href="\Mynew\ls\adminloginpage.php" class="btn btn-secondary btn-md">Get Started</a>
+                                <a href="\Sanjeevanifinal\ls\adminloginpage.php" class="btn btn-secondary btn-md">Get Started</a>
                             </p>
                         </div>
                     </div>
