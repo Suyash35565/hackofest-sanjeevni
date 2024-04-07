@@ -30,7 +30,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
         $result=mysqli_query($conn,$sql);
         if($result){
             $showAlert=true;
-            header("location: \Mynew\ls\adminloginpage.php");
+            header("location: \Sanjeevanifinal\ls\adminloginpage.php");
         }
         }
     else
