@@ -13,7 +13,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
         session_start();
         $_SESSION['loggedin']=true;
         $_SESSION['username']=$username;
-        header("location: \Mynew\p_dashboard.php");
+        header("location: \Sanjeevanifinal\p_dashboard.php");
     }    
     else{
         $showError="Invalid Credentials";
